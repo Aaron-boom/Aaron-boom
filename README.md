@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 - 🎓 UESTC
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning apache/dubbo-admin...
 - 📫 How to reach me: 757230079@qq.com
 - 👯 Wordpress: www.rongshen2020.com
